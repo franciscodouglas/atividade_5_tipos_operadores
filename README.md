@@ -1,4 +1,14 @@
 # Atividade 5
+
+
+## Sumário 
+- [Como Utilizar Esse Projteto](#como-utilizar-esse-projeto-)
+- [Escopo da Atividade](#escopo-da-atividade-%EF%B8%8F) 
+- [Desafio da Atividade](#desafio-da-atividade-)
+- [No Microsoft Teams](#no-microsoft-teams--)
+- [Regras](#regras-)
+- [Feedback](#feedback-)
+
 ## Como Utilizar Esse Projeto 📁
 
 - Nesse projeto há duas pastas:
@@ -19,7 +29,6 @@ Implementar uma classe que seja capaz de simular todos operadores possíveis no 
 
 
 
-
 ## Desafio da Atividade 🎯  
 
 - Desenvolva mais métodos para incluir os <b> operadores de atribuição </b>
@@ -27,6 +36,19 @@ Implementar uma classe que seja capaz de simular todos operadores possíveis no 
 - Desenvolva mais métodos para incluir os <b> operadores comparação </b>
 
 
-## No Microsoft Teams 
+## No Microsoft Teams  👥
 
-- No Microsoft Teams a Atividade estará aberta e não há necessidade fazer o upload do projeto
+- Não há necessidade fazer o upload do projeto 
+- Caso tenha realizado em dupla, mencione o NOME e RGM da dupla lá no Teams em um arquivo .txt
+
+## Regras 📄
+
+- Utilize as boas práticas de programação que são sempre mencionadas em aula e nos materiais; 
+- Observe sempre os modificadores de acesso em atributos e métodos;
+- Observe os nomes de classes e atributos;
+- Utilze comentários para elucidar o cenário elaborado;
+
+## Feedback 📨
+-  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M2;
+-  A nota será atribuída no Microsoft Teams
+
