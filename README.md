@@ -10,8 +10,8 @@ Implementar uma classe que seja capaz de simular todos operadores possíveis no 
 
 # Desafio 
 
-Desenvolva mais métodos para incluir os operadores de atribuição 
+- Desenvolva mais métodos para incluir os operadores de atribuição 
 
-Desenvolva mais métodos para incluir os operadores lógico 
+- Desenvolva mais métodos para incluir os operadores lógico 
 
-Desenvolva mais métodos para incluir os operadores comparação
+- Desenvolva mais métodos para incluir os operadores comparação
