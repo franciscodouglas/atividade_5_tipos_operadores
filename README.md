@@ -14,15 +14,17 @@
 ## Escopo da Atividade 🛠️
 Implementar uma classe que seja capaz de simular todos operadores possíveis no Java: 
 
+- ![carbon (2)](https://user-images.githubusercontent.com/98854868/235467971-e985fc57-f677-4dfb-885e-989ae0260d27.png)
+- ![carbon (3)](https://user-images.githubusercontent.com/98854868/235469107-f795243b-0eb4-4a4e-b22a-d18d63fa0a72.png)
 
 
 
 
 ## Desafio da Atividade 🎯  
 
-- Desenvolva mais métodos para incluir os operadores de atribuição 
-- Desenvolva mais métodos para incluir os operadores lógico 
-- Desenvolva mais métodos para incluir os operadores comparação
+- Desenvolva mais métodos para incluir os <b> operadores de atribuição </b>
+- Desenvolva mais métodos para incluir os <b> operadores lógico </b>
+- Desenvolva mais métodos para incluir os <b> operadores comparação </b>
 
 
 ## No Microsoft Teams 
