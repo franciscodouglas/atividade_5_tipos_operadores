@@ -12,7 +12,6 @@
 ## Como Utilizar Esse Projeto 📁
 
 - Nesse projeto há duas pastas:
-    - FazerNetBeans:Exclusiva para realizar na IDE NetBeans 8.2 (Utilizaremos esse no Laboratório)
     - FazerNetBeans:Exclusiva para realizar no VisualStudio Code. 
 
 - Na sua máquina tem que ter instalado o <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank">Java Development Kit (JDK) </a> 
@@ -39,7 +38,6 @@ Implementar uma classe que seja capaz de simular todos operadores possíveis no 
 ## No Microsoft Teams  👥
 
 - Não há necessidade fazer o upload do projeto 
-- Caso tenha realizado em dupla, mencione o NOME e RGM da dupla lá no Teams em um arquivo .txt
 
 ## Regras 📄
 
@@ -49,6 +47,6 @@ Implementar uma classe que seja capaz de simular todos operadores possíveis no 
 - Utilze comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
--  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M2;
+-  Sua atividade receberá uma pontuação de 0 a 10, que compõe a Nota da ATV1;
 -  A nota será atribuída no Microsoft Teams
 
